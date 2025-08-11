@@ -4,21 +4,21 @@
          "id":0,
          "name":"Green.",
          "price":0,
-         "spriteUrl":"https://example.com",
+         "spriteUrl":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball.png",
          "spriteSize":12
       },
       {
          "id":1,
          "name":"Black & White.",
          "price":3,
-         "spriteUrl":"https://example.com",
+         "spriteUrl":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_black.png",
          "spriteSize":12
       },
       {
          "id":2,
          "name":"The Stupid.",
          "price":10,
-         "spriteUrl":"https://example.com",
+         "spriteUrl":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_stupid.png",
          "spriteSize":24
       }
    ]
