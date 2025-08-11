@@ -65,7 +65,7 @@
       },
       {
          "ID":9,
-         "Name":"<color=#FF00DC>R<color=#FF0000>a<color=#FF6A00>i<color=#FFD800>n<color=#3AA000>b<color=#0026FF>o<color=#8000BC>w</color>.",
+         "Name":"<color=#FF00DC>R<color=#FF0000>a<color=#FF6A00>i<color=#FFD800>n<color=#3AA000>b<color=#0026FF>o<color=#8000BC>w<color=#FFFFFF>.",
          "Price":30,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_rainbow.png",
          "SpriteSize":12
