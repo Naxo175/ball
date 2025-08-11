@@ -16,7 +16,7 @@
       },
       {
          "ID":2,
-         "Name":"The StupID.",
+         "Name":"The Stupid.",
          "Price":10,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_stupid.png",
          "SpriteSize":24
