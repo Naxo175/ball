@@ -6,13 +6,15 @@
          "price":0,
          "spriteUrl":"https://example.com",
          "spriteSize":12
-      }{
+      },
+      {
          "id":1,
          "name":"Black & White.",
          "price":3,
          "spriteUrl":"https://example.com",
          "spriteSize":12
-      }{
+      },
+      {
          "id":2,
          "name":"The Stupid.",
          "price":10,
