@@ -1,0 +1,6 @@
+{
+  "skins": [
+    {"id": 0, "name": "Green.", "price": 0, "spriteUrl": "https://example.com" }
+    {"id": 1, "name": "Black & White.", "price": 3, "spriteUrl": "https://example.com" }
+  ]
+}
