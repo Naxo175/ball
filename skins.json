@@ -10,7 +10,7 @@
       {
          "ID":1,
          "Name":"Black & White.",
-         "Price":3,
+         "Price":5,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_black.png",
          "SpriteSize":12
       },
@@ -20,6 +20,69 @@
          "Price":10,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_stupid.png",
          "SpriteSize":24
-      }
+      },
+      {
+         "ID":3,
+         "Name":"Tomato.",
+         "Price":2,
+         "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_tomato.png",
+         "SpriteSize":12
+      },
+      {
+         "ID":4,
+         "Name":"Smirk.",
+         "Price":15,
+         "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_smirk.png",
+         "SpriteSize":12
+      },
+      {
+         "ID":5,
+         "Name":"Mr. Eye",
+         "Price":20,
+         "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_mreye.png",
+         "SpriteSize":24
+      },
+      {
+         "ID":6,
+         "Name":"Cat.",
+         "Price":45,
+         "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_cat.png",
+         "SpriteSize":24
+      },
+      {
+         "ID":7,
+         "Name":"<color=#991800>Mr. Blood Eye</color>",
+         "Price":666,
+         "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_mrbloodeye.png",
+         "SpriteSize":24
+      },
+      {
+         "ID":8,
+         "Name":"Imposter.",
+         "Price":58,
+         "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_imposter.png",
+         "SpriteSize":12
+      },
+      {
+         "ID":9,
+         "Name":"Rainbow.",
+         "Price":30,
+         "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_rainbow.png",
+         "SpriteSize":12
+      },
+      {
+         "ID":10,
+         "Name":"<rotate=\"180\">Green.</rotate>",
+         "Price":500,
+         "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_upsidedown.png",
+         "SpriteSize":12
+      },
+      {
+         "ID":11,
+         "Name":"Squared.",
+         "Price":1000,
+         "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_squared.png",
+         "SpriteSize":12
+      },
    ]
 }
