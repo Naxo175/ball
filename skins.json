@@ -1,25 +1,25 @@
 {
    "skins":[
       {
-         "id":0,
-         "name":"Green.",
-         "price":0,
-         "spriteUrl":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball.png",
-         "spriteSize":12
+         "ID":0,
+         "Name":"Green.",
+         "Price":0,
+         "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball.png",
+         "SpriteSize":12
       },
       {
-         "id":1,
-         "name":"Black & White.",
-         "price":3,
-         "spriteUrl":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_black.png",
-         "spriteSize":12
+         "ID":1,
+         "Name":"Black & White.",
+         "Price":3,
+         "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_black.png",
+         "SpriteSize":12
       },
       {
-         "id":2,
-         "name":"The Stupid.",
-         "price":10,
-         "spriteUrl":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_stupid.png",
-         "spriteSize":24
+         "ID":2,
+         "Name":"The StupID.",
+         "Price":10,
+         "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_stupID.png",
+         "SpriteSize":24
       }
    ]
 }
