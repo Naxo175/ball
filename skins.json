@@ -99,9 +99,9 @@
       {
          "ID":12,
          "Name":"dog.",
-         "Price":1000,
-         "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_squared.png",
-         "SpriteSize":12,
+         "Price":46,
+         "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_dog.png",
+         "SpriteSize":24,
          "comment":"i like cats better."
       },
    ]
