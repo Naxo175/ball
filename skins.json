@@ -6,7 +6,7 @@
          "Price":0,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball.png",
          "SpriteSize":12,
-         "comment":"This skin looks like me..."
+         "comment":"this skin looks like me..."
       },
       {
          "ID":1,
@@ -22,7 +22,7 @@
          "Price":10,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_stupid.png",
          "SpriteSize":24,
-         "comment":""
+         "comment":"stupid. it reminds me of someone..."
       },
       {
          "ID":3,
@@ -54,7 +54,7 @@
          "Price":45,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_cat.png",
          "SpriteSize":24,
-         "comment":""
+         "comment":"i like dogs better."
       },
       {
          "ID":7,
@@ -70,7 +70,7 @@
          "Price":58,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_imposter.png",
          "SpriteSize":12,
-         "comment":""
+         "comment":"there is one imposter among us."
       },
       {
          "ID":9,
@@ -78,7 +78,7 @@
          "Price":30,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_rainbow.png",
          "SpriteSize":12,
-         "comment":""
+         "comment":"this one is not for me. too many colors."
       },
       {
          "ID":10,
@@ -86,7 +86,7 @@
          "Price":500,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_upsidedown.png",
          "SpriteSize":12,
-         "comment":""
+         "comment":"the developer didn't put much effort into this one."
       },
       {
          "ID":11,
@@ -94,7 +94,7 @@
          "Price":1000,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_squared.png",
          "SpriteSize":12,
-         "comment":""
+         "comment":"i <b>HATE</b> squares."
       },
    ]
 }
