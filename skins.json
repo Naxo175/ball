@@ -14,7 +14,7 @@
          "Price":5,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_black.png",
          "SpriteSize":12,
-         "comment":""
+         "comment":"the developer told me he didn't like this skin. i completely agree with him."
       },
       {
          "ID":2,
@@ -30,7 +30,7 @@
          "Price":2,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_tomato.png",
          "SpriteSize":12,
-         "comment":""
+         "comment":"since when are fruits living things?"
       },
       {
          "ID":4,
@@ -46,7 +46,7 @@
          "Price":20,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_mreye.png",
          "SpriteSize":24,
-         "comment":""
+         "comment":"this eye is very huge compared to my eyes."
       },
       {
          "ID":6,
@@ -62,7 +62,7 @@
          "Price":666,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_mrbloodeye.png",
          "SpriteSize":24,
-         "comment":""
+         "comment":"boo. spooky. ugh..."
       },
       {
          "ID":8,
@@ -94,7 +94,7 @@
          "Price":1000,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_squared.png",
          "SpriteSize":12,
-         "comment":"i <b>HATE</b> squares."
+         "comment":"this skin is overrated."
       },
       {
          "ID":12,
@@ -103,6 +103,22 @@
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_dog.png",
          "SpriteSize":24,
          "comment":"i like cats better."
+      },
+      {
+         "ID":13,
+         "Name":"unicorn.",
+         "Price":120,
+         "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_unicorn.png",
+         "SpriteSize":24,
+         "comment":"this unicorn surely deals \"candy\" at night."
+      },
+      {
+         "ID":14,
+         "Name":"human.",
+         "Price":157,
+         "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_human.png",
+         "SpriteSize":24,
+         "comment":"humans look like this ? glad i'm not one."
       },
    ]
 }
