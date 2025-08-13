@@ -69,7 +69,7 @@
          "Name":"imposter.",
          "Price":58,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_imposter.png",
-         "SpriteSize":12,
+         "SpriteSize":24,
          "comment":"there is one imposter among us."
       },
       {
