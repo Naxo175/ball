@@ -120,5 +120,13 @@
          "SpriteSize":24,
          "comment":"humans look like this ? glad i'm not one."
       },
+      {
+         "ID":15,
+         "Name":"oskour.",
+         "Price":505,
+         "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_clown.png",
+         "SpriteSize":24,
+         "comment":""
+      },
    ]
 }
