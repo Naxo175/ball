@@ -143,5 +143,14 @@
          "Buyable":true,
          "comment":"i think he is asking for help."
       },
+      {
+         "ID":16,
+         "Name":"👁️👄👁️",
+         "Price":505,
+         "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_clown.png",
+         "SpriteSize":24,
+         "Buyable":true,
+         "comment":"i think he is asking for help."
+      },
    ]
 }
