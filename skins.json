@@ -145,9 +145,9 @@
       },
       {
          "ID":16,
-         "Name":"76",
-         "Price":99,
-         "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_clown.png",
+         "Name":"o_o",
+         "Price":76,
+         "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_stare.png",
          "SpriteSize":24,
          "Buyable":true,
          "comment":"stop looking at me like that. right now."
