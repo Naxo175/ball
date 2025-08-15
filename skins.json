@@ -7,7 +7,8 @@
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball.png",
          "SpriteSize":12,
          "Buyable":false,
-         "comment":"this skin looks like me..."
+         "comment":"this skin looks like me...",
+         "HowToGet":"Create an account."
       },
       {
          "ID":1,
@@ -16,7 +17,8 @@
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_black.png",
          "SpriteSize":12,
          "Buyable":true,
-         "comment":"i don't like this skin at all."
+         "comment":"i don't like this skin at all.",
+         "HowToGet":"In the Shop."
       },
       {
          "ID":2,
@@ -24,7 +26,8 @@
          "Price":10,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_stupid.png",
          "SpriteSize":24,
-         "comment":"stupid. it reminds me of someone..."
+         "comment":"stupid. it reminds me of someone...",
+         "HowToGet":"In the Shop."
       },
       {
          "ID":3,
@@ -33,7 +36,8 @@
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_tomato.png",
          "SpriteSize":12,
          "Buyable":true,
-         "comment":"since when are fruits living things?"
+         "comment":"since when are fruits living things?",
+         "HowToGet":"In the Shop."
       },
       {
          "ID":4,
@@ -42,7 +46,8 @@
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_smirk.png",
          "SpriteSize":12,
          "Buyable":true,
-         "comment":"is he trying to seduce me or something? anyway, it's not working."
+         "comment":"is he trying to seduce me or something? anyway, it's not working.",
+         "HowToGet":"In the Shop."
       },
       {
          "ID":5,
@@ -51,7 +56,8 @@
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_mreye.png",
          "SpriteSize":24,
          "Buyable":true,
-         "comment":"this eye is very huge compared to my eyes."
+         "comment":"this eye is very huge compared to my eyes.",
+         "HowToGet":"In the Shop."
       },
       {
          "ID":6,
@@ -60,7 +66,8 @@
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_cat.png",
          "SpriteSize":24,
          "Buyable":true,
-         "comment":"i like dogs better."
+         "comment":"i like dogs better.",
+         "HowToGet":"In the Shop."
       },
       {
          "ID":7,
@@ -69,7 +76,8 @@
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_mrbloodeye.png",
          "SpriteSize":24,
          "Buyable":true,
-         "comment":"boo. spooky. ugh..."
+         "comment":"boo. spooky. ugh...",
+         "HowToGet":"In the Shop."
       },
       {
          "ID":8,
@@ -78,7 +86,8 @@
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_imposter.png",
          "SpriteSize":24,
          "Buyable":true,
-         "comment":"there is one imposter among us."
+         "comment":"there is one imposter among us.",
+         "HowToGet":"In the Shop."
       },
       {
          "ID":9,
@@ -87,7 +96,8 @@
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_rainbow.png",
          "SpriteSize":12,
          "Buyable":true,
-         "comment":"this one is not for me. too many colors."
+         "comment":"this one is not for me. too many colors.",
+         "HowToGet":"In the Shop."
       },
       {
          "ID":10,
@@ -96,7 +106,8 @@
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_upsidedown.png",
          "SpriteSize":12,
          "Buyable":true,
-         "comment":"the developer didn't put much effort into this one."
+         "comment":"the developer didn't put much effort into this one.",
+         "HowToGet":"In the Shop."
       },
       {
          "ID":11,
@@ -105,7 +116,8 @@
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_squared.png",
          "SpriteSize":12,
          "Buyable":true,
-         "comment":"this skin is overrated."
+         "comment":"this skin is overrated.",
+         "HowToGet":"In the Shop."
       },
       {
          "ID":12,
@@ -114,7 +126,8 @@
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_dog.png",
          "SpriteSize":24,
          "Buyable":true,
-         "comment":"i like cats better."
+         "comment":"i like cats better.",
+         "HowToGet":"In the Shop."
       },
       {
          "ID":13,
@@ -123,7 +136,8 @@
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_unicorn.png",
          "SpriteSize":24,
          "Buyable":true,
-         "comment":"this unicorn surely deals \"candy\" at night."
+         "comment":"this unicorn surely deals \"candy\" at night.",
+         "HowToGet":"In the Shop."
       },
       {
          "ID":14,
@@ -132,7 +146,8 @@
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_human.png",
          "SpriteSize":24,
          "Buyable":true,
-         "comment":"humans look like this ? glad i'm not one."
+         "comment":"humans look like this ? glad i'm not one.",
+         "HowToGet":"In the Shop."
       },
       {
          "ID":15,
@@ -141,7 +156,8 @@
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_clown.png",
          "SpriteSize":24,
          "Buyable":true,
-         "comment":"i think he is asking for help."
+         "comment":"i think he is asking for help.",
+         "HowToGet":"In the Shop."
       },
       {
          "ID":16,
@@ -150,7 +166,8 @@
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_stare.png",
          "SpriteSize":24,
          "Buyable":true,
-         "comment":"stop looking at me like that. right now."
+         "comment":"stop looking at me like that. right now.",
+         "HowToGet":"In the Shop."
       },
       {
          "ID":17,
@@ -159,7 +176,8 @@
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_lookingdown.png",
          "SpriteSize":24,
          "Buyable":true,
-         "comment":"this one is showing off his score in the Leaderboard."
+         "comment":"this one is showing off his score in the Leaderboard.",
+         "HowToGet":"In the Shop."
       },
       {
          "ID":18,
@@ -168,7 +186,8 @@
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_lookingup.png",
          "SpriteSize":24,
          "Buyable":true,
-         "comment":"this one is jealous of players who are above him in the Leaderboard."
+         "comment":"this one is jealous of players who are above him in the Leaderboard.",
+         "HowToGet":"In the Shop."
       },
       {
          "ID":19,
@@ -177,7 +196,8 @@
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_mario.png",
          "SpriteSize":24,
          "Buyable":true,
-         "comment":"honestly, mario games are less fun than this game. i'm not open to debate."
+         "comment":"honestly, mario games are less fun than this game. i'm not open to debate.",
+         "HowToGet":"In the Shop."
       },
    ]
 }
