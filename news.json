@@ -10,7 +10,7 @@
       {
          "ID":1,
          "Title":"beta3.5 released !",
-         "Description":"Small new update before beta4 :\nAdded Inventory : now you need to access the Inventory to equip skins\nUI is broken on some devices. This will be fixed soon\nThis update is for preparing player customization elements, like platforms skins, leaderboard animations…",
+         "Description":"Small new update before beta4 :\n- Added Inventory : now you need to access the Inventory to equip skins\n- UI is broken on some devices. This will be fixed soon\n- This update is for preparing player customization elements, like platforms skins, leaderboard animations…",
          "ImageURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/news/beta3.5.png",
          "Date":"20250815"
       },
