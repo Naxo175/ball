@@ -38,7 +38,7 @@
       {
          "ID":4,
          "Name":"smirk.",
-         "Price":15,
+         "Price":7,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_smirk.png",
          "SpriteSize":12,
          "Buyable":true,
@@ -151,6 +151,33 @@
          "SpriteSize":24,
          "Buyable":true,
          "comment":"stop looking at me like that. right now."
+      },
+      {
+         "ID":17,
+         "Name":"bighead.",
+         "Price":239,
+         "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_lookingdown.png",
+         "SpriteSize":24,
+         "Buyable":true,
+         "comment":"this one is showing off his score in the Leaderboard."
+      },
+      {
+         "ID":18,
+         "Name":"jealous.",
+         "Price":15,
+         "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_lookingup.png",
+         "SpriteSize":24,
+         "Buyable":true,
+         "comment":"this one is jealous of players who are above him in the Leaderboard."
+      },
+      {
+         "ID":19,
+         "Name":"mario.",
+         "Price":64,
+         "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_lookingup.png",
+         "SpriteSize":24,
+         "Buyable":true,
+         "comment":"this one is jealous of players who are above him in the Leaderboard."
       },
    ]
 }
