@@ -6,6 +6,7 @@
          "Price":0,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball.png",
          "SpriteSize":12,
+         "Buyable":false,
          "comment":"this skin looks like me..."
       },
       {
@@ -14,6 +15,7 @@
          "Price":5,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_black.png",
          "SpriteSize":12,
+         "Buyable":true,
          "comment":"i don't like this skin at all."
       },
       {
@@ -30,6 +32,7 @@
          "Price":2,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_tomato.png",
          "SpriteSize":12,
+         "Buyable":true,
          "comment":"since when are fruits living things?"
       },
       {
@@ -38,6 +41,7 @@
          "Price":15,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_smirk.png",
          "SpriteSize":12,
+         "Buyable":true,
          "comment":"is he trying to seduce me or something? anyway, it's not working."
       },
       {
@@ -46,6 +50,7 @@
          "Price":20,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_mreye.png",
          "SpriteSize":24,
+         "Buyable":true,
          "comment":"this eye is very huge compared to my eyes."
       },
       {
@@ -54,6 +59,7 @@
          "Price":45,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_cat.png",
          "SpriteSize":24,
+         "Buyable":true,
          "comment":"i like dogs better."
       },
       {
@@ -62,6 +68,7 @@
          "Price":666,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_mrbloodeye.png",
          "SpriteSize":24,
+         "Buyable":true,
          "comment":"boo. spooky. ugh..."
       },
       {
@@ -70,6 +77,7 @@
          "Price":58,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_imposter.png",
          "SpriteSize":24,
+         "Buyable":true,
          "comment":"there is one imposter among us."
       },
       {
@@ -78,6 +86,7 @@
          "Price":30,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_rainbow.png",
          "SpriteSize":12,
+         "Buyable":true,
          "comment":"this one is not for me. too many colors."
       },
       {
@@ -86,6 +95,7 @@
          "Price":500,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_upsidedown.png",
          "SpriteSize":12,
+         "Buyable":true,
          "comment":"the developer didn't put much effort into this one."
       },
       {
@@ -94,6 +104,7 @@
          "Price":1000,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_squared.png",
          "SpriteSize":12,
+         "Buyable":true,
          "comment":"this skin is overrated."
       },
       {
@@ -102,6 +113,7 @@
          "Price":46,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_dog.png",
          "SpriteSize":24,
+         "Buyable":true,
          "comment":"i like cats better."
       },
       {
@@ -110,6 +122,7 @@
          "Price":120,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_unicorn.png",
          "SpriteSize":24,
+         "Buyable":true,
          "comment":"this unicorn surely deals \"candy\" at night."
       },
       {
@@ -118,6 +131,7 @@
          "Price":157,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_human.png",
          "SpriteSize":24,
+         "Buyable":true,
          "comment":"humans look like this ? glad i'm not one."
       },
       {
@@ -126,7 +140,8 @@
          "Price":505,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_clown.png",
          "SpriteSize":24,
-         "comment":""
+         "Buyable":true,
+         "comment":"i think he is asking for help."
       },
    ]
 }
