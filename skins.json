@@ -72,12 +72,12 @@
       {
          "ID":7,
          "Name":"<color=#991800>Mr. Blood Eye</color>",
-         "Price":666,
+         "Price":0,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_mrbloodeye.png",
          "SpriteSize":24,
-         "Buyable":true,
+         "Buyable":false,
          "comment":"boo. spooky. ugh...",
-         "HowToGet":"In the Shop."
+         "HowToGet":"Kill Mr. Eye."
       },
       {
          "ID":8,
