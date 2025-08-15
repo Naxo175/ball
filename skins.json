@@ -174,10 +174,10 @@
          "ID":19,
          "Name":"mario.",
          "Price":64,
-         "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_lookingup.png",
+         "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_mario.png",
          "SpriteSize":24,
          "Buyable":true,
-         "comment":"this one is jealous of players who are above him in the Leaderboard."
+         "comment":"honestly, mario games are less fun than this game. i'm not open to debate."
       },
    ]
 }
