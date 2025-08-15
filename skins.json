@@ -146,11 +146,11 @@
       {
          "ID":16,
          "Name":"o_o",
-         "Price":505,
+         "Price":99,
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_clown.png",
          "SpriteSize":24,
          "Buyable":true,
-         "comment":"i think he is asking for help."
+         "comment":"stop looking at me like that. right now."
       },
    ]
 }
