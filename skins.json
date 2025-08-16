@@ -8,7 +8,6 @@
          "SpriteSize":12,
          "Buyable":false,
          "Comment":"this skin looks like me...",
-         "HowToGet":"Create an account."
       },
       {
          "ID":1,
@@ -18,7 +17,6 @@
          "SpriteSize":12,
          "Buyable":true,
          "Comment":"i don't like this skin at all.",
-         "HowToGet":"In the Shop."
       },
       {
          "ID":2,
@@ -27,7 +25,6 @@
          "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_stupid.png",
          "SpriteSize":24,
          "Comment":"stupid. it reminds me of someone...",
-         "HowToGet":"In the Shop."
       },
       {
          "ID":3,
@@ -37,7 +34,6 @@
          "SpriteSize":12,
          "Buyable":true,
          "Comment":"since when are fruits living things?",
-         "HowToGet":"In the Shop."
       },
       {
          "ID":4,
@@ -47,7 +43,6 @@
          "SpriteSize":12,
          "Buyable":true,
          "Comment":"is he trying to seduce me or something? anyway, it's not working.",
-         "HowToGet":"In the Shop."
       },
       {
          "ID":5,
@@ -57,7 +52,6 @@
          "SpriteSize":24,
          "Buyable":true,
          "Comment":"this eye is very huge compared to my eyes.",
-         "HowToGet":"In the Shop."
       },
       {
          "ID":6,
@@ -67,7 +61,6 @@
          "SpriteSize":24,
          "Buyable":true,
          "Comment":"i like dogs better.",
-         "HowToGet":"In the Shop."
       },
       {
          "ID":7,
@@ -77,7 +70,6 @@
          "SpriteSize":24,
          "Buyable":false,
          "Comment":"boo. spooky. ugh...",
-         "HowToGet":"Kill Mr. Eye."
       },
       {
          "ID":8,
@@ -87,7 +79,6 @@
          "SpriteSize":24,
          "Buyable":true,
          "Comment":"there is one imposter among us.",
-         "HowToGet":"In the Shop."
       },
       {
          "ID":9,
@@ -97,7 +88,6 @@
          "SpriteSize":12,
          "Buyable":true,
          "Comment":"this one is not for me. too many colors.",
-         "HowToGet":"In the Shop."
       },
       {
          "ID":10,
@@ -107,7 +97,6 @@
          "SpriteSize":12,
          "Buyable":true,
          "Comment":"the developer didn't put much effort into this one.",
-         "HowToGet":"In the Shop."
       },
       {
          "ID":11,
@@ -117,7 +106,6 @@
          "SpriteSize":12,
          "Buyable":true,
          "Comment":"this skin is overrated.",
-         "HowToGet":"In the Shop."
       },
       {
          "ID":12,
@@ -127,7 +115,6 @@
          "SpriteSize":24,
          "Buyable":true,
          "Comment":"i like cats better.",
-         "HowToGet":"In the Shop."
       },
       {
          "ID":13,
@@ -137,7 +124,6 @@
          "SpriteSize":24,
          "Buyable":true,
          "Comment":"this unicorn surely deals \"candy\" at night.",
-         "HowToGet":"In the Shop."
       },
       {
          "ID":14,
@@ -147,7 +133,6 @@
          "SpriteSize":24,
          "Buyable":true,
          "Comment":"humans look like this ? glad i'm not one.",
-         "HowToGet":"In the Shop."
       },
       {
          "ID":15,
@@ -157,7 +142,6 @@
          "SpriteSize":24,
          "Buyable":true,
          "Comment":"i think he is asking for help.",
-         "HowToGet":"In the Shop."
       },
       {
          "ID":16,
@@ -167,7 +151,6 @@
          "SpriteSize":24,
          "Buyable":true,
          "Comment":"stop looking at me like that. right now.",
-         "HowToGet":"In the Shop."
       },
       {
          "ID":17,
@@ -177,7 +160,6 @@
          "SpriteSize":24,
          "Buyable":true,
          "Comment":"this one is showing off his score in the Leaderboard.",
-         "HowToGet":"In the Shop."
       },
       {
          "ID":18,
@@ -187,7 +169,6 @@
          "SpriteSize":24,
          "Buyable":true,
          "Comment":"this one is jealous of players who are above him in the Leaderboard.",
-         "HowToGet":"In the Shop."
       },
       {
          "ID":19,
@@ -197,7 +178,6 @@
          "SpriteSize":24,
          "Buyable":true,
          "Comment":"honestly, mario games are less fun than this game. i'm not open to debate.",
-         "HowToGet":"In the Shop."
       },
    ]
 }
