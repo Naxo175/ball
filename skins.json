@@ -179,5 +179,14 @@
          "Buyable":true,
          "Comment":"honestly, mario games are less fun than this game. i'm not open to debate.",
       },
+      {
+         "ID":20,
+         "Name":"info.",
+         "Price":0,
+         "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_info.png",
+         "SpriteSize":12,
+         "Buyable":false,
+         "Comment":"",
+      },
    ]
 }
