@@ -17,9 +17,9 @@
       {
          "ID":2,
          "Title":"BETA 4 RELEASED !",
-         "Description":"- Achievements ! Some achievements are hidden, you must find them and maybe they will give you skins...\n- Sound effects\n- Added Coins counter in-game and remade score counter\n- Character in the Shop. now speaks !\n- Pass through platforms\n- Save/Load data system\n- Optimizations to reduce PlayFab API calls (save/load system is one of these optimizations)\n- Play without connecting\n- Inventory UI fixed\n- Leaderboard is no longer clamped at 10 players\n- See your stats more easily in the Leaderboard\n- Remade Storm Incoming warning\n- Character in the Shop. says \"hi.\" when you enter",
+         "Description":"- Achievements ! Some achievements are hidden, you must find them and maybe they will give you skins...\n- Sound effects\n- Added Coins counter in-game and remade score counter\n- Character in the Shop. now speaks !\n- Pass through platforms\n- Optimizations to reduce PlayFab API calls\n- You can play without connecting (only to test the game ; progress won't be saved)\n- Inventory UI fixed\n- Leaderboard is no longer clamped at 10 players\n- See your stats more easily in the Leaderboard\n- Remade Storm Incoming warning\n- Character in the Shop. says \"hi.\" when you enter",
          "ImageURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/news/beta4.png",
-         "Date":"20250817"
+         "Date":"20250818"
       },
    ]
 }
