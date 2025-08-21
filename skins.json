@@ -197,5 +197,14 @@
          "Buyable":false,
          "Comment":"",
       },
+      {
+         "ID":22,
+         "Name":"coin.",
+         "Price":0,
+         "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_coin.png",
+         "SpriteSize":12,
+         "Buyable":false,
+         "Comment":"",
+      },
    ]
 }
