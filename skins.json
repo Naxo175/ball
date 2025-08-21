@@ -206,5 +206,14 @@
          "Buyable":false,
          "Comment":"",
       },
+      {
+         "ID":23,
+         "Name":"crow.",
+         "Price":0,
+         "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_guest.png",
+         "SpriteSize":24,
+         "Buyable":false,
+         "Comment":"",
+      },
    ]
 }
