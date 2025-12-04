@@ -215,5 +215,14 @@
          "Buyable":false,
          "Comment":"",
       },
+      {
+         "ID":24,
+         "Name":"migrator ball.",
+         "Price":0,
+         "SpriteURL":"https://raw.githubusercontent.com/Naxo175/ball/refs/heads/main/skins/ball_migrator.png",
+         "SpriteSize":12,
+         "Buyable":false,
+         "Comment":"",
+      },
    ]
 }
